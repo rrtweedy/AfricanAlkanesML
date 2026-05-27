@@ -1,3 +1,4 @@
+.DS_Store
 test_train_df.csv
 best_model.pt
 best_model_info.npz
